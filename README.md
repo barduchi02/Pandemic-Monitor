@@ -26,4 +26,4 @@ You can run simple tests by running the test.py file.
 
 ## Authors
 
-* **Yuri Barduchi Robin** - *Initial work* - [Pandemic Monitor](https://github.com/PurpleBooth)
+* **Yuri Barduchi Robin** - *Initial work* - [Pandemic Monitor](https://github.com/barduchi02/Pandemic-Monitor/)
